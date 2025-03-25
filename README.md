@@ -18,3 +18,16 @@ cd front
 npm install
 
 npm run dev
+
+## Archivos prueba
+
+En la carpeta principal se encuentran 
+
+- predict_data.json (para predecirlos y ver resultados)
+
+- data_10%.json (para entrenar el modelo, tiene el 10% de los datos originales)
+
+- data_20%.json (para entrenar el modelo, tiene el 20% de los datos originales)
+
+- data_50%.json (para entrenar el modelo, tiene el 50% de los datos originales)
+
