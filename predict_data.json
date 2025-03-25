@@ -1,0 +1,32 @@
+[
+    {
+        "ID": "ID",
+        "Titulo": "La mesa del congreso censura un encuentro internacional de parlamentarios prosáhara en el parlamento",
+        "Descripcion": "Portavoces de Ciudadanos, PNV, UPN, PSOE, Unidos PP y EQUO denuncian juntos esta censura que consideran injustificable.",
+        "Fecha": "30/10/2018"
+    },
+    {
+        "ID": "ID",
+        "Titulo": "La brecha digital que dificulta el acceso de ayudas a las personas vulnerables: 'Llega un momento en el que uno se rinde'",
+        "Descripcion": "No es la primera vez que los ciudadanos vulnerables se topan con obstáculos a la hora de solicitar ayudas debido al lenguaje burocrático, el obligatoriedad de la Cl@ve Pin o la conexión a internet.",
+        "Fecha": "15/03/2023"
+    },
+    {
+        "ID": "ID",
+        "Titulo": "PP apremia al EQUO a presentar una propuesta de gobierno y critica 'la parálisis institucional'",
+        "Descripcion": "El partido morado reprocha que los socialistas tengan paralizado el Congreso: Hay 350 diputados que no pueden trabajar porque no hay actividad. Continúan con la mano tendida para iniciar una negociación de gobierno.",
+        "Fecha": "01/07/2019"
+    },
+    {
+        "ID": "ID",
+        "Titulo": "De soberano garante de la democracia a rey corrupto, apartado y desheredado",
+        "Descripcion": "La renuncia de Felipe VI a su herencia, procedente de las multimillonarias comisiones embolsadas por Juan Carlos I, y la eliminación de la asignación presupuestaria a su padre como rey emérito, dan la puntilla a la trayectoria de un soberano designado por un dictador, encumbrado por EEUU, alabado por la Transición y reverenciado tras el 23-F, que ha acabado humillado y excluido por sus negocios inconfesables como comisionista de altos vuelos.",
+        "Fecha": "16/03/2020"
+    },
+    {
+        "ID": "ID",
+        "Titulo": "El Gobierno aprobará este martes detraer los beneficios extraordinarios de las eléctricas para reducir el precio de la luz y del gas",
+        "Descripcion": "El Ejecutivo también prorrogará la suspensión del impuesto a la generación eléctrica hasta final de año y bajará al mínimo el impuesto especial sobre la luz (del 5,1% al 0,5%). Sánchez defiende que las grandes empresas eléctricas se pueden permitir la detracción de este beneficio, que logran como consecuencia de la evolución de los mercados.",
+        "Fecha": "13/09/2021"
+    }
+]

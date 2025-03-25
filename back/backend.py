@@ -8,6 +8,7 @@ from typing import List, Optional, Any
 from sklearn.compose import ColumnTransformer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from support_functions import loadModel, createModel, transfor_data_local
+from fastapi.middleware.cors import CORSMiddleware
 
 # Make sure transfor_data_local is accessible globally
 globals()['transfor_data_local'] = transfor_data_local
@@ -16,6 +17,14 @@ globals()['transfor_data_local'] = transfor_data_local
 app = FastAPI(
     title="Predictor API",
     description="API para predicciones y re-entrenamiento de modelo."
+)
+# Enable CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Change this in production to restrict domains
+    allow_credentials=True,
+    allow_methods=["*"],  # Allows all methods (GET, POST, OPTIONS, etc.)
+    allow_headers=["*"],  # Allows all headers
 )
 
 
